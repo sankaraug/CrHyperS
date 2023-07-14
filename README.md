@@ -1,1 +1,3 @@
- Vegetation hyperspectral imaging data sets captured from UAV platforms for different flight and camera settings will be made available here.
+CrHyperS: UAV-Based Crop HyperSpectral Imaging Dataset::
+
+The UAV-based Crop HyperSpectral imaging dataset will be made available here.
