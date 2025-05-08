@@ -3,7 +3,7 @@
 
 The code in this repository implements the "HyperConvFormer" model. 
 
-![Alt text](image-url)
+![Alt text](HyperConvFormer.png)
 
 
 The UAV-based Crop HyperSpectral imaging dataset will be made available here.
