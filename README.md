@@ -7,7 +7,7 @@
 # UC-HSI: UAV-Based Crop Hyperspectral Imaging Datasets and Machine Learning Benchmark Results
 
 **Published in**: IEEE Geoscience and Remote Sensing Letters (GRSL), Vol. 21, 2024  
-[IEEE DOI](https://doi.org/10.1109/LGRS.2024.5508005)
+[IEEE DOI](https://ieeexplore.ieee.org/document/10605842)
 
 
 
