@@ -31,10 +31,10 @@ This repository offers:
 | Bands                | 300 (385–1021 nm)                                 |
 | Spatial Resolution   | 1.1 cm                                            |
 | Platform             | DJI Matrice-600 Pro UAV                           |
-| Crops Covered        | 10 (cotton, maize, paddy, sorghum, etc.)         |
+| Crops Covered        | 10 (Pearl millet,maize,Groundnut,sorghum,etc.)    |
 | Total Samples        | 69,514                                            |
 | Patch Size           | 11 × 11 × 300                                     |
-| Growth Stages        | Annotated for sorghum and groundnut              |
+| Growth Stages        | sorghum and groundnut               |
 
 
 
@@ -66,19 +66,6 @@ Implemented ML/DL models:
 
  Visual results and confusion matrices are available in [`results/`](./results).
 
-
-
-## Preprocessing Pipeline
-
-Steps used to prepare data:
-
-1. **Radiometric Calibration**  
-2. **Geometric Rectification**
-3. **Quality Filtering using NIQE**
-4. **Spectral Denoising** (FastHyDe)
-5. **Patch Extraction** (NDVI > 0.5, TCARI > 1500)
-
-Details and scripts are in [`preprocessing/`](./preprocessing).
 
 
 
