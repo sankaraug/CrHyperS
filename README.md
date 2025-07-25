@@ -49,7 +49,7 @@ Implemented ML/DL models:
 -  SpectralFormer
 -  Proposed: **HyperConvFormer**
 
- Refer to [`benchmark_models/`](./Codes) for model code.
+ Refer to [`Codes/`](./Codes) for model code.
 
 
 
@@ -64,7 +64,10 @@ Implemented ML/DL models:
 | SpectralFormer   | 97.12        |
 | **HyperConvFormer** | **98.86** |
 
+![HyperConvFormer](Results/1.gif)
+
  Visual results and confusion matrices are available in [`results/`](./results).
+ 
 
 
 
