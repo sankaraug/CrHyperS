@@ -53,6 +53,12 @@ Implemented ML/DL models:
 
 
 
+
+**"Architecture of the Proposed HyperConvFormer Model for Crop HSI Classification"**
+
+![HyperConvFormer](https://github.com/sankaraug/CrHyperS/blob/main/HyperConvFormer.png)
+
+---
 ## Results Snapshot
 
 | Model             | Accuracy (%) |
@@ -66,9 +72,8 @@ Implemented ML/DL models:
 
 ---
 
-**"Architecture of the Proposed HyperConvFormer Model for Crop HSI Classification"**
+![HyperConvFormer](https://github.com/sankaraug/CrHyperS/blob/main/Results/Overall%20Accuracy%20(OA)%20Comparison%20Across%20Models.gif))
 
-![HyperConvFormer](https://github.com/sankaraug/CrHyperS/blob/main/HyperConvFormer.png)
 
  Visual results and confusion matrices are available in [`results/`](./results).
  
