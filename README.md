@@ -112,7 +112,7 @@ Please cite the following paper if you use this dataset or code:
 
 ## Contributors
 
-- Dr. Adduru U.G. Sankararao – Principal Investigator  
+- Dr. Adduru U.G. Sankararao - IIT Hyderabad
 - P. Rajalakshmi – Research Guide  
 - Sunita Choudhary – Crop Domain Expert, ICRISAT  
 - Sai Kiran – Code Implementation  
