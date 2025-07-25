@@ -64,7 +64,7 @@ Implemented ML/DL models:
 | SpectralFormer   | 97.12        |
 | **HyperConvFormer** | **98.86** |
 
-![HyperConvFormer]([Results/1.gif](https://github.com/sankaraug/CrHyperS/blob/main/HyperConvFormer.png))
+![HyperConvFormer](https://github.com/sankaraug/CrHyperS/blob/main/HyperConvFormer.png)
 
  Visual results and confusion matrices are available in [`results/`](./results).
  
