@@ -121,7 +121,7 @@ Due to file size and access policy, the dataset is hosted on TiHAN servers.
 
  [Request Dataset Access](https://tihan.iith.ac.in/TiAND.html).
  
-Navigate to "Hyperspectral Imaging (Aerial)" section in above link and click on download....
+Navigate to Agricultural Dataset=> "Hyperspectral Imaging (Aerial)" section in the above link and click on Request access....
 Fill out the form with your research purpose. Access will be granted after approval.
 
 
